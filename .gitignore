@@ -1,0 +1,8 @@
+.vs/game-starter
+bin/Debug
+game/obj/*
+raylib-master
+**.sln
+**.vcxproj
+**.vcxproj.**
+
