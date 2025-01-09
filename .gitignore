@@ -1,4 +1,4 @@
-.vs/game-starter
+.vs/*
 bin/Debug
 game/obj/*
 raylib-master
